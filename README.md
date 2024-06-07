@@ -1,16 +1,16 @@
-# Análise de Empréstimos
+# Loan Analysis
 
-## Descrição do Projeto
-Este projeto visa analisar os dados de empréstimos e responder a perguntas-chave relacionadas à emissão de empréstimos, inadimplência e rentabilidade.
+## Project Description
+This project aims to analyze loan data and answer key questions related to loan issuance, default rates, and profitability.
 
-## Instruções de Uso
-1. Clone o repositório ou baixe os arquivos diretamente do GitHub.
-2. Abra o Jupyter Notebook `lending_case.ipynb` em um ambiente de Jupyter.
-3. Siga as células no notebook para ver as análises detalhadas para cada pergunta.
+## Usage Instructions
+1. Clone the repository or download the files directly from GitHub.
+2. Open the Jupyter Notebook `lending_case.ipynb` in a Jupyter environment.
+3. Follow the cells in the notebook to see detailed analyses for each question.
 
-## Estrutura do Repositório
-- `lending_case.ipynb`: O notebook principal com as análises.
-- `README.md`: Este arquivo, com instruções de uso.
+## Repository Structure
+- `lending_case.ipynb`: The main notebook containing the analyses.
+- `README.md`: This file, with usage instructions.
 
-## Contato
-Para dúvidas ou mais informações, entre em contato pelo email caio.silveira@cloudwalk.io.
+## Contact
+For questions or more information, contact via email at caio.silveira@cloudwalk.io.
